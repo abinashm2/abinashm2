@@ -1,6 +1,5 @@
 ### Hi there! I am Abinash Mohapatra 👋
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python and MATLAB.
 - 👯 I’m looking to collaborate on Open Source projects on Python and MATLAB.
 - 🥅 2022 Goals: Contribute to Open Source projects
